@@ -8,8 +8,8 @@ Taking the HTT genotyping based on the Ciosi Assay one step further by detecting
 **B. Define Type B Error:** 
 Two consecutive CAG repeats with Type A Error.  
 **C. Error Cut-off**:   
-Maximum Type A Error allowed per CAG stretch is 3. Maximum threshold for Type B Error per CAG stretch is 1.  DONE
-Try 5 and 7. Compare % of reads over 100= Total reads with CAG over 100/Total reads with CAG over 35 * 100.
+Maximum Type A Error allowed per CAG stretch is 3. Maximum threshold for Type B Error per CAG stretch is 1.  DONE  
+Try 5 and 7. Compare % of reads over 100= Total reads with CAG over 100/Total reads with CAG over 35 * 100.  
 **D. What are the inputs?**
 FastQ files (generated using the protocol in References Section).  
 **E. What are the outputs?**
